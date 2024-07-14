@@ -1,16 +1,11 @@
 # osiete_hiroba
+「出願おしえて広場」
+先輩・生徒保護者・塾の先生・出願先の先生や事務員の方に質問を答えてもらえるサービスです。　
 
-A new Flutter project.
+中心機能：
+①出願しようと考えている高校のコミュニティに登録する
+②出願に関する質問を投稿すると、そのコミュニティに入っている塾の先生・出願先の先生などに回答してもらえる
+→関係者のみがコミュニティに参加するので、情報の信頼性が高い
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+実装されているMVP機能：
+回答者が質問を見て回答を投稿する機能。
